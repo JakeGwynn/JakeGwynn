@@ -1,8 +1,12 @@
 ### Welcome to my GitHub profile! I'm currently working on:
 Power Platform
+
 M365 PowerShell
+
 Microsoft Graph API
+
 Azure
+
 Exchange Online
 
 <meta name="google-site-verification" content="f8_pZ5JVxhtinF3IwHU_hSquP5PmLtEdFx9P_GtepZ8" />
