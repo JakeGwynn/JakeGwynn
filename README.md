@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<meta name="google-site-verification" content="f8_pZ5JVxhtinF3IwHU_hSquP5PmLtEdFx9P_GtepZ8" />
+
 <!--
 **JakeGwynn/JakeGwynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
